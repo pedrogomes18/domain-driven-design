@@ -1,4 +1,4 @@
-package com.ddd.structure.modules.users.infra.domain.entities;
+package com.ddd.structure.modules.users.domain.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
